@@ -16,7 +16,7 @@ import (
 	"go.etcd.io/etcd/clientv3"
 
 	hash "github.com/mitchellh/hashstructure"
-	"go.etcd.io/etcd/etcdserver/api/v3rpc/rpctypes"
+	"github.com/coreos/etcd/etcdserver/api/v3rpc/rpctypes"
 )
 
 var (
