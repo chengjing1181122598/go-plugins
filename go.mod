@@ -1,4 +1,4 @@
-module github.com/micro/go-plugins
+module github.com/chengjing1181122598/go-plugins
 
 require (
 	cloud.google.com/go v0.37.2
